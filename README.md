@@ -10,3 +10,5 @@ This icon pack was created to address the following issues:
 2. Fixes many of the original `.svg` files that were corrupted and appeared broken when imported into DrawIO
 3. Created a library for each of the icon folders in the original download containing all of the `.svg` icon files in that folder
 4. Created a library containing all of the `.svg` icon files
+
+_Ourchitecture or the contributors to this code repository do not represent Microsoft or any ownership of its assets._

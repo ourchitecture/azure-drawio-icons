@@ -1,0 +1,24 @@
+Microsoft Cloud + AI Azure Service Icon Set
+
+As of 04.30.2019
+
+-----
+
+Readme:
+This is the official set of Azure Service Icons listed on the Azure portal.
+
+Why:
+Using these symbols to describe systems built with Azure helps establish a consistent visual language. This speeds the understanding of system scenarios and architectures and anchors discussions among Microsoft employees, customers, and other 3rd parties. 
+
+Use where and when:
+Use the symbols in architectural diagrams, training decks, your own documentation, books, and videos as appropriate to explain Microsoft products and technologies. You can resize the symbols, but not modify its shape in any other way. The current set of icons need to be used as is in full-color. You should have at least one Microsoft technology in any diagram where you use the symbols. They are not meant for use in user interfaces, though you can request that permission from CnESymbols@microsoft.com.
+
+Microsoft reserves the right to not allow certain uses of these symbols, stop their use, or ask for their removal from use. 
+
+File Format:
+SVG
+
+-----
+
+
+

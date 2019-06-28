@@ -11,4 +11,8 @@ This icon pack was created to address the following issues:
 3. Created a library for each of the icon folders in the original download containing all of the `.svg` icon files in that folder
 4. Created a library containing all of the `.svg` icon files
 
+## Open in draw.io
+
+* [Azure All](https://www.draw.io/?splash=0&clibs=https%3A%2F%2Fgithub.com%2Fourchitecture%2Fazure-drawio-icons%2Fraw%2Fmaster%2FAzure%2520All.drawiolib)
+
 _Ourchitecture or the contributors to this code repository do not represent Microsoft or any ownership of its assets._
